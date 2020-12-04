@@ -1,10 +1,14 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace UrlShort.Domain
 {
     public class ShortUrl
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public string Id { get; set; }
         public string Full { get; set; }
         public string Short { get; private set; }
         public int Clicks { get; set; } = 0;

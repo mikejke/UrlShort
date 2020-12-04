@@ -48,3 +48,10 @@ C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\UrlShort.genrunt
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\UrlShort.csproj.CopyComplete
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\UrlShort.Domain.dll
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\UrlShort.Domain.pdb
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Npgsql.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\RazorDeclaration\Pages\RedirectionPage.razor.g.cs
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\Razor\Pages\RedirectionPage.razor.g.cs

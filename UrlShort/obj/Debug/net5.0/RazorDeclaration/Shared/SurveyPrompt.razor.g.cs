@@ -70,13 +70,27 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 9 "C:\Users\xspec\RiderProjects\UrlShort\UrlShort\_Imports.razor"
-using UrlShort;
+using Microsoft.EntityFrameworkCore;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 10 "C:\Users\xspec\RiderProjects\UrlShort\UrlShort\_Imports.razor"
+using UrlShort.Domain;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Users\xspec\RiderProjects\UrlShort\UrlShort\_Imports.razor"
+using UrlShort;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\xspec\RiderProjects\UrlShort\UrlShort\_Imports.razor"
 using UrlShort.Shared;
 
 #line default

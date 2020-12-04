@@ -1,5 +1,5 @@
 ﻿@page "/"
-
+@inject IDbContextFactory<ApplicationDbContext> DbFactory
 <h1>URL Shortener</h1>
 <div class="my-4 form-inline">
     <label for="fullUrl" class="sr-only">URL</label>
@@ -17,22 +17,26 @@
         </thead>
         <tbody>
         @if (!_shortUrls.Any())
+        {
+            <tr>
+                <td colspan="3">Loading..</td>
+            </tr>
+        }
+        else
+        {
+            foreach (var shortUrl in _shortUrls)
             {
                 <tr>
-                    <td colspan="3">Loading..</td>
+                    <td>
+                        <a href="@shortUrl.Full">@shortUrl.Full</a>
+                    </td>
+                    <td>
+                        <a href="/@shortUrl.Short">@shortUrl.Short</a>
+                    </td>
+                    <td>@shortUrl.Clicks</td>
                 </tr>
             }
-            else
-            {
-                foreach (var shortUrl in _shortUrls)
-                {
-                    <tr>
-                        <td><a href="@shortUrl.Full">@shortUrl.Full</a></td>
-                        <td><a href="@shortUrl.Short">@shortUrl.Short</a></td>
-                        <td>@shortUrl.Clicks</td>
-                    </tr>
-                }
-            }
+        }
         </tbody>
     </table>
 </div>
