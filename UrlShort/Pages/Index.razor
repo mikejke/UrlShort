@@ -1,0 +1,38 @@
+﻿@page "/"
+
+<h1>URL Shortener</h1>
+<div class="my-4 form-inline">
+    <label for="fullUrl" class="sr-only">URL</label>
+    <input type="url" name="fullUrl" id="fullUrl" @bind-value="@_url" class="form-control mr-2 col" placeholder="Url" required/>
+    <button class="btn btn-success" type="button" @onclick="ShortUrl">Shrink</button>
+</div>
+<div>
+    <table class="table table-striped table-responsive">
+        <thead>
+            <tr>
+                <th scope="col">Full URL</th>
+                <th scope="col">Short URL</th>
+                <th scope="col">Clicks</th>
+            </tr>
+        </thead>
+        <tbody>
+        @if (!_shortUrls.Any())
+            {
+                <tr>
+                    <td colspan="3">Loading..</td>
+                </tr>
+            }
+            else
+            {
+                foreach (var shortUrl in _shortUrls)
+                {
+                    <tr>
+                        <td><a href="@shortUrl.Full">@shortUrl.Full</a></td>
+                        <td><a href="@shortUrl.Short">@shortUrl.Short</a></td>
+                        <td>@shortUrl.Clicks</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

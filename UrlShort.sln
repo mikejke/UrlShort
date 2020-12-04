@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShort", "UrlShort\UrlShort.csproj", "{899E9255-D9E2-4A43-BE4B-8CA7721DD67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShort.Domain", "UrlShort.Domain\UrlShort.Domain.csproj", "{BF4D7C70-B59E-4432-B357-FCCCD637A8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899E9255-D9E2-4A43-BE4B-8CA7721DD67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899E9255-D9E2-4A43-BE4B-8CA7721DD67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899E9255-D9E2-4A43-BE4B-8CA7721DD67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899E9255-D9E2-4A43-BE4B-8CA7721DD67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4D7C70-B59E-4432-B357-FCCCD637A8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4D7C70-B59E-4432-B357-FCCCD637A8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4D7C70-B59E-4432-B357-FCCCD637A8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4D7C70-B59E-4432-B357-FCCCD637A8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

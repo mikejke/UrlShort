@@ -1,0 +1,12 @@
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\bin\Debug\net5.0\UrlShort.Domain.deps.json
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\bin\Debug\net5.0\UrlShort.Domain.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\bin\Debug\net5.0\ref\UrlShort.Domain.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\bin\Debug\net5.0\UrlShort.Domain.pdb
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.csprojAssemblyReference.cache
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.AssemblyInfoInputs.cache
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.AssemblyInfo.cs
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\ref\UrlShort.Domain.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort.Domain\obj\Debug\net5.0\UrlShort.Domain.pdb
