@@ -7,7 +7,7 @@
     <button class="btn btn-success" type="button" @onclick="ShortUrl">Shrink</button>
 </div>
 <div>
-    <table class="table table-striped table-responsive">
+    <table class="table table-striped">
         <thead>
             <tr>
                 <th scope="col">Full URL</th>
@@ -31,7 +31,7 @@
                         <a href="@shortUrl.Full">@shortUrl.Full</a>
                     </td>
                     <td>
-                        <a href="/@shortUrl.Short">@shortUrl.Short</a>
+                        <a href="@shortUrl.Short">@shortUrl.Short</a>
                     </td>
                     <td>@shortUrl.Clicks</td>
                 </tr>

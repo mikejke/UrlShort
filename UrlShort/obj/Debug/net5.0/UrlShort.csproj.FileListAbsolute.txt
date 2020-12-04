@@ -55,3 +55,5 @@ C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Npgsql.dll
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\RazorDeclaration\Pages\RedirectionPage.razor.g.cs
 C:\Users\xspec\RiderProjects\UrlShort\UrlShort\obj\Debug\net5.0\Razor\Pages\RedirectionPage.razor.g.cs
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Humanizer.dll
+C:\Users\xspec\RiderProjects\UrlShort\UrlShort\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
