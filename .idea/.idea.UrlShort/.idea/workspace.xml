@@ -4,13 +4,37 @@
     <projectFile>UrlShort/UrlShort.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49f70bd1-6fb4-482f-8397-83dfa1934008" name="Default Changelist" comment="finished">
-      <change beforePath="$PROJECT_DIR$/UrlShort/Pages/Index.razor" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/Pages/Index.razor" afterDir="false" />
+    <list default="true" id="49f70bd1-6fb4-482f-8397-83dfa1934008" name="Default Changelist" comment="removed table-responsive class">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UrlShort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/ShortUrl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/ShortUrl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/Debug/net5.0/UrlShort.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/Debug/net5.0/UrlShort.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/Debug/net5.0/UrlShort.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/Debug/net5.0/UrlShort.Domain.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/UrlShort.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/UrlShort.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/UrlShort.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/UrlShort.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/Pages/Index.razor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/Pages/Index.razor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.razor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.razor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/Services/ShortenerService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/Shared/SurveyPrompt.razor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/UrlShort.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/UrlShort.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/bin/Debug/net5.0/UrlShort.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/UrlShort.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/obj/UrlShort.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/UrlShort.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/obj/UrlShort.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/UrlShort.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrlShort/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UrlShort/obj/project.assets.json" afterDir="false" />
@@ -26,29 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UrlShort/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/UrlShort/Data/WeatherForecast.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/Shared/MainLayout.razor" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/_Host.cshtml" />
-        <option value="$PROJECT_DIR$/UrlShort.Domain/Class1.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/Services/ShortenerService.cs" />
-        <option value="$PROJECT_DIR$/UrlShort.Domain/ShorUrl.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/appsettings.json" />
-        <option value="$PROJECT_DIR$/UrlShort/Startup.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/_Imports.razor" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/Index.razor.cs" />
-        <option value="$PROJECT_DIR$/UrlShort.Domain/ApplicationDbContext.cs" />
-        <option value="$PROJECT_DIR$/UrlShort.Domain/ShortUrl.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.cshtml" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.cshtml.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.razor" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.gitignore" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.razor.cs" />
-        <option value="$PROJECT_DIR$/UrlShort/Pages/Index.razor" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/UrlShort/Pages/RedirectionPage.razor.cs" />
+      <option value="$PROJECT_DIR$/UrlShort.Domain/ShortUrl.cs" />
+      <option value="$PROJECT_DIR$/UrlShort.Domain/ApplicationDbContext.cs" />
+      <option value="$PROJECT_DIR$/UrlShort/Startup.cs" />
+      <option value="$PROJECT_DIR$/UrlShort/Pages/Index.razor.cs" />
+      <option value="$PROJECT_DIR$/UrlShort/Services/ShortenerService.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1lCCwmHQgkdyKSMA5vlFBTIrHKz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -96,6 +109,10 @@
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.UrlShort" />
+      <item itemvalue=".NET Launch Settings Profile.UrlShort: IIS Express" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,7 +123,9 @@
       <option name="presentableId" value="Default" />
       <updated>1607091928896</updated>
       <workItem from="1607091967687" duration="6040000" />
-      <workItem from="1607101600673" duration="5657000" />
+      <workItem from="1607101600673" duration="5966000" />
+      <workItem from="1607294521605" duration="126000" />
+      <workItem from="1607603407439" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1607106451424</created>
@@ -115,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607106451424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed table-responsive class">
+      <created>1607107311833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607107311833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed table-responsive class">
+      <created>1607107391713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607107391713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,9 +159,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="removed table-responsive class" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed table-responsive class" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607603470410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607603470410" />
     <state x="838" y="417" key="Github.ShareDialog" timestamp="1607101629951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -137,22 +175,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607101665451" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607106883678">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607603540580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607106883678" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607106883678">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607603540580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607603540580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607106883678" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607106883678">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607603540580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607603540580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607106883678" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607106883678">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607603540580" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607603540580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607106883678" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607603540580" />
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1607093808527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -161,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607103903327" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607106452832">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607107394394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607106452832" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.242.1440.860@0.0.1920.1040" timestamp="1607107394394" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607104529107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

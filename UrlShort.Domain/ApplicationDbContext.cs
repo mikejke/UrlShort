@@ -20,6 +20,5 @@ namespace UrlShort.Domain
                 .HasIndex(url => url.Short)
                 .IsUnique();
         }
-        
     }
 }

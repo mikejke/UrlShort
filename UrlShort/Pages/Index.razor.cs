@@ -22,11 +22,14 @@ namespace UrlShort.Pages
 
         private async Task ShortUrl()
         {
-            var shortUrl = new ShortUrl() { Full = _url};
-            _shortUrls.Add(shortUrl);
-            await using var context = DbFactory.CreateDbContext();
-            await context.ShortUrls.AddAsync(shortUrl);
-            await context.SaveChangesAsync();
+            if(_url != null || _url != string.Empty)
+            {
+                var shortUrl = new ShortUrl() {Full = _url};
+                _shortUrls.Add(shortUrl);
+                await using var context = DbFactory.CreateDbContext();
+                await context.ShortUrls.AddAsync(shortUrl);
+                await context.SaveChangesAsync();
+            }
         }
     }
 }

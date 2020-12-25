@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
@@ -52,7 +51,6 @@ namespace UrlShort.Domain
         }
 
         private readonly Random _random = new Random();
-        // variables
         private const string Bigs = "ABCDEFGHIJKLMNPQRSTUVWXY";
         private const string Smalls = "abcdefghjklmnopqrstuvwxyz";
         private const string Numbers = "0123456789";
@@ -96,6 +94,7 @@ namespace UrlShort.Domain
         /// </summary>
         private class GenerationOptions
         {
+            //TODO: make them useful
             // Constants
             private const int MinAutoLength = 6;
             private const int MaxAutoLength = 12;
